@@ -11,10 +11,15 @@
 
 Installation & usage is simply through loading the public url into your browswer search bar and using the links to navigate.
 
+URL to deployed site: 
+https://altb22.github.io/Horiseon-Refactoring_2/
+
 ## Credits
 
 Built in collaboration and guidance from UC Berkeley Ext Coding Boot Camp staff. See link for overview.
 https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-FT-09-2022-U-LOLC/-/blob/main/course-content/01-html-git-css/challenge/README.md#unit-01-html-css-and-git-homework-portfolio
+
+
 
 ## License
 
